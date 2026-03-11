@@ -1,7 +1,5 @@
 v = [2,5,8,12,15,20]
 
-
-
 posicao=0
 for i in range(5):
     val = int(input("Digite um valor: "))
